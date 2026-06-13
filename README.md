@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hey!<br>I'm a passionate tech enthusiast who loves exploring new technologies to see how they work. Whether it's backend, frontend, or something in between, I enjoy learning how things are built and why they work the way they do. My curiosity drives me to constantly learn new tools, languages, and frameworks because understanding how things work under the hood is just as exciting as building with them!<br>Whether it's coding, tinkering with hardware, or exploring AI, I’m always eager to experiment and grow. My goal? To use technology to make a meaningful difference, one line of code at a time.<br>Let’s connect and build something awesome!<br>
 
 
